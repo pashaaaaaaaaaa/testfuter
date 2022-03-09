@@ -1,0 +1,12 @@
+li{
+  font-size: 20px;
+  color: red;
+}
+.select{
+  border: 1px solid red;
+  width: 200px;
+  height: 60px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
